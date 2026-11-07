@@ -1,0 +1,19 @@
+{
+ "generated_at": "2026-10-22T01:35:04",
+ "digest": "rss_iran_2026-10-19_2026-10-22.md",
+ "total_items": 1667,
+ "english": {
+  "items": 1166,
+  "fear": 905,
+  "anger": 123,
+  "hope": 221,
+  "fear_to_anger": 7.36
+ },
+ "persian": {
+  "items": 501,
+  "fear": 232,
+  "anger": 31,
+  "hope": 90,
+  "fear_to_anger": 7.48
+ }
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Iran War Room Feeds</title>
+  </head>
+  <body>
+    <outline text="English - International" title="English - International">
+      <outline type="rss" text="BBC World" title="BBC World" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"/>
+      <outline type="rss" text="BBC Middle East" title="BBC Middle East" xmlUrl="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml"/>
+      <outline type="rss" text="The Guardian World" title="The Guardian World" xmlUrl="https://www.theguardian.com/world/rss"/>
+      <outline type="rss" text="The Guardian Middle East" title="The Guardian Middle East" xmlUrl="https://www.theguardian.com/world/middleeast/rss"/>
+      <outline type="rss" text="Al Jazeera" title="Al Jazeera" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml"/>
+      <outline type="rss" text="DW English World" title="DW English World" xmlUrl="https://rss.dw.com/rdf/rss-en-world"/>
+      <outline type="rss" text="France 24 English" title="France 24 English" xmlUrl="https://www.france24.com/en/rss"/>
+      <outline type="rss" text="CNN Middle East" title="CNN Middle East" xmlUrl="http://rss.cnn.com/rss/edition_meast.rss"/>
+    </outline>
+    <outline text="English - US" title="English - US">
+      <outline type="rss" text="NYT World" title="NYT World" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml"/>
+      <outline type="rss" text="NYT Middle East" title="NYT Middle East" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml"/>
+      <outline type="rss" text="Washington Post World" title="Washington Post World" xmlUrl="https://feeds.washingtonpost.com/rss/world"/>
+    </outline>
+    <outline text="Middle East / Israel" title="Middle East / Israel">
+      <outline type="rss" text="Jerusalem Post" title="Jerusalem Post" xmlUrl="https://www.jpost.com/rss/rssfeedsfrontpage.aspx"/>
+      <outline type="rss" text="Haaretz" title="Haaretz" xmlUrl="https://www.haaretz.com/srv/haaretz-latest-headlines"/>
+      <outline type="rss" text="Middle East Eye" title="Middle East Eye" xmlUrl="https://www.middleeasteye.net/rss"/>
+      <outline type="rss" text="Al Arabiya English" title="Al Arabiya English" xmlUrl="https://news.google.com/rss/search?q=site%3Aenglish.alarabiya.net&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen"/>
+      <outline type="rss" text="Arab News" title="Arab News" xmlUrl="https://www.arabnews.com/rss.xml"/>
+      <outline type="rss" text="The National" title="The National" xmlUrl="https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml"/>
+      <outline type="rss" text="Al-Monitor" title="Al-Monitor" xmlUrl="https://www.al-monitor.com/rss"/>
+      <outline type="rss" text="Amwaj Media" title="Amwaj Media" xmlUrl="https://amwaj.media/rss"/>
+    </outline>
+    <outline text="Analysis / Policy / Defense" title="Analysis / Policy / Defense">
+      <outline type="rss" text="Foreign Policy" title="Foreign Policy" xmlUrl="https://foreignpolicy.com/feed/"/>
+      <outline type="rss" text="The Diplomat" title="The Diplomat" xmlUrl="https://thediplomat.com/feed/"/>
+      <outline type="rss" text="War on the Rocks" title="War on the Rocks" xmlUrl="https://warontherocks.com/feed/"/>
+      <outline type="rss" text="Defense News" title="Defense News" xmlUrl="https://www.defensenews.com/arc/outboundfeeds/rss/"/>
+      <outline type="rss" text="Breaking Defense" title="Breaking Defense" xmlUrl="https://breakingdefense.com/feed/"/>
+      <outline type="rss" text="Politico Europe" title="Politico Europe" xmlUrl="https://www.politico.eu/feed/"/>
+    </outline>
+    <outline text="Persian" title="Persian">
+      <outline type="rss" text="BBC Persian" title="BBC Persian" xmlUrl="https://feeds.bbci.co.uk/persian/rss.xml"/>
+      <outline type="rss" text="Iran International" title="Iran International" xmlUrl="https://www.iranintl.com/feed"/>
+      <outline type="rss" text="Radio Farda" title="Radio Farda" xmlUrl="https://news.google.com/rss/search?q=site%3Aradiofarda.com&amp;hl=fa&amp;gl=IR&amp;ceid=IR%3Afa"/>
+      <outline type="rss" text="VOA Persian" title="VOA Persian" xmlUrl="https://news.google.com/rss/search?q=site%3Air.voanews.com&amp;hl=fa&amp;gl=IR&amp;ceid=IR%3Afa"/>
+      <outline type="rss" text="DW Persian" title="DW Persian" xmlUrl="https://news.google.com/rss/search?q=site%3Adw.com+%D9%81%D8%A7%D8%B1%D8%B3%DB%8C&amp;hl=fa&amp;gl=IR&amp;ceid=IR%3Afa"/>
+      <outline type="rss" text="IRNA" title="IRNA" xmlUrl="https://www.irna.ir/rss"/>
+      <outline type="rss" text="ISNA" title="ISNA" xmlUrl="https://www.isna.ir/rss"/>
+      <outline type="rss" text="Fars News" title="Fars News" xmlUrl="https://news.google.com/rss/search?q=site%3Afarsnews.ir&amp;hl=fa&amp;gl=IR&amp;ceid=IR%3Afa"/>
+      <outline type="rss" text="Mehr News" title="Mehr News" xmlUrl="https://www.mehrnews.com/rss"/>
+      <outline type="rss" text="Tabnak" title="Tabnak" xmlUrl="https://www.tabnak.ir/fa/rss/allnews"/>
+      <outline type="rss" text="Khabar Online" title="Khabar Online" xmlUrl="https://www.khabaronline.ir/rss"/>
+      <outline type="rss" text="Entekhab" title="Entekhab" xmlUrl="https://www.entekhab.ir/fa/rss/allnews"/>
+    </outline>
+    <outline text="Google News - English Queries" title="Google News - English Queries">
+      <outline type="rss" text="Iran military" title="Iran military" xmlUrl="https://news.google.com/rss/search?q=Iran+military&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline type="rss" text="Iran attack" title="Iran attack" xmlUrl="https://news.google.com/rss/search?q=Iran+attack&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline type="rss" text="Iran strike" title="Iran strike" xmlUrl="https://news.google.com/rss/search?q=Iran+strike&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline type="rss" text="Iran Israel" title="Iran Israel" xmlUrl="https://news.google.com/rss/search?q=Iran+Israel&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline type="rss" text="Iran United States" title="Iran United States" xmlUrl="https://news.google.com/rss/search?q=Iran+United+States&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline type="rss" text="Iran escalation" title="Iran escalation" xmlUrl="https://news.google.com/rss/search?q=Iran+escalation&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline type="rss" text="Iran nuclear" title="Iran nuclear" xmlUrl="https://news.google.com/rss/search?q=Iran+nuclear&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline type="rss" text="Iran sanctions" title="Iran sanctions" xmlUrl="https://news.google.com/rss/search?q=Iran+sanctions&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    </outline>
+    <outline text="Google News - Persian Queries" title="Google News - Persian Queries">
+      <outline type="rss" text="ایران حمله" title="ایران حمله" xmlUrl="https://news.google.com/rss/search?q=%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+%D8%AD%D9%85%D9%84%D9%87&amp;hl=fa&amp;gl=IR&amp;ceid=IR:fa"/>
+      <outline type="rss" text="ایران جنگ" title="ایران جنگ" xmlUrl="https://news.google.com/rss/search?q=%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+%D8%AC%D9%86%DA%AF&amp;hl=fa&amp;gl=IR&amp;ceid=IR:fa"/>
+      <outline type="rss" text="ایران نظامی" title="ایران نظامی" xmlUrl="https://news.google.com/rss/search?q=%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+%D9%86%D8%B8%D8%A7%D9%85%DB%8C&amp;hl=fa&amp;gl=IR&amp;ceid=IR:fa"/>
+      <outline type="rss" text="تنش ایران اسرائیل" title="تنش ایران اسرائیل" xmlUrl="https://news.google.com/rss/search?q=%D8%AA%D9%86%D8%B4+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84&amp;hl=fa&amp;gl=IR&amp;ceid=IR:fa"/>
+      <outline type="rss" text="تحریم ایران" title="تحریم ایران" xmlUrl="https://news.google.com/rss/search?q=%D8%AA%D8%AD%D8%B1%DB%8C%D9%85+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86&amp;hl=fa&amp;gl=IR&amp;ceid=IR:fa"/>
+      <outline type="rss" text="هسته ایران" title="هسته ایران" xmlUrl="https://news.google.com/rss/search?q=%D9%87%D8%B3%D8%AA%D9%87+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86&amp;hl=fa&amp;gl=IR&amp;ceid=IR:fa"/>
+    </outline>
+  </body>
+</opml>

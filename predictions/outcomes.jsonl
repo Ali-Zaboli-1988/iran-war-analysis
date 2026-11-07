@@ -1,0 +1,1 @@
+{"evaluated_at": "2026-10-21T14:52:21", "ledger_index": 2, "created_at": "2026-10-21T14:50:19", "probability_range": "40-55%", "midpoint": 47.5, "outcome": "no_war", "brier_score": 0.2256, "synthesis_file": "analyses\\08_revised_synthesis_gated.md"}

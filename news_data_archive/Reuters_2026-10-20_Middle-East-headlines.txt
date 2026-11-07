@@ -1,0 +1,43 @@
+منبع: Reuters — Middle East
+آدرس: https://www.reuters.com/world/middle-east/
+تاریخ و زمان دریافت: 2026-10-20 01:33:37 +03:30
+وضعیت دریافت مستقیم: ناموفق (HTTP 401 / CAPTCHA)
+
+توضیح: دسترسی مستقیم به صفحه با خطای 401 مسدود شد و نسخه آینه (r.jina.ai) نیز صفحه CAPTCHA برگرداند.
+عناوین زیر از نتایج ایندکس‌شده جست‌وجوی همان صفحه Reuters (بخش Middle East) استخراج شده‌اند و ممکن است کامل یا به‌روز نباشند.
+
+=== عناوین صفحه Middle East — Reuters ===
+
+1. Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say
+   - سومین حمله این هفته به فرودگاه بین‌المللی ریاض؛ مقامات سعودی از کشته شدن دست‌کم ۱۲ نفر و مجروح شدن بیش از ۳۰۰ نفر خبر دادند. حوثی‌های مورد حمایت ایران حملات خود را تشدید کرده‌اند.
+
+2. Abbas postpones Palestinian elections, sets presidential poll for September 2027
+   - محمود عباس انتخابات فلسطین را به تعویق انداخت و انتخابات ریاست‌جمهوری را برای سپتامبر ۲۰۲۷ تعیین کرد.
+
+3. Israeli strikes kill five people in Gaza, medics say
+   - حملات اسرائیل در غزه به کشته شدن پنج نفر منجر شد.
+
+4. Major Saudi conferences to proceed, organisers say, despite deadly airport attack
+   - برگزارکنندگان اعلام کردند کنفرانس‌های مهم عربستان با وجود حمله مرگبار به فرودگاه ادامه می‌یابند.
+
+5. EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize
+   - تاریخ: ۹ اکتبر ۲۰۲۶ — آمریکا چند ساعت پس از اعطای جایزه نوبل صلح به قاضی سابق دادگاه کیفری بین‌المللی، تحریم‌هایی علیه این دادگاه وضع کرد.
+
+6. UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight
+   - تاریخ: ۹ اکتبر ۲۰۲۶ — امارات اعلام کرد کمک‌خلبان عمانی پرواز فلای‌دبی قصد انجام حمله انتحاری در پرواز به تل‌آویو را داشت.
+
+7. Houthi strikes on Riyadh airport killed three Saudis as war escalates
+   - تاریخ: ۹ اکتبر ۲۰۲۶ — حملات حوثی‌ها به فرودگاه ریاض سه شهروند سعودی را کشت.
+
+8. EU aviation body widens Saudi airspace warning after Houthi strikes
+   - تاریخ: ۹ اکتبر ۲۰۲۶ — نهاد هوانوردی اتحادیه اروپا هشدار خود درباره حریم هوایی عربستان را گسترش داد.
+
+9. EXCLUSIVE: Palestinians set to ... (عنوان در نتایج جست‌وجو ناقص بود)
+
+=== پیوندهای مرتبط یافت‌شده در Reuters ===
+
+- Iran readies harder retaliation if attacked as diplomacy faces long odds
+  https://www.reuters.com/world/middle-east/iran-readies-harder-retaliation-if-attacked-diplomacy-faces-long-odds-2026-10-01/
+  (۲ اکتبر ۲۰۲۶ — ایران آماده پاسخ سخت‌تر در صورت حمله است؛ دیپلماسی شانس کمی دارد.)
+
+یادداشت: برای دریافت متن کامل مقالات، دسترسی مستقیم به Reuters لازم است که در این محیط مسدود بود.
